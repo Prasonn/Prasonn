@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prasonn
-- 👀 I’m interested in making new projects, Competitive programming with 5 stars in hackerrank.
+- 👀 I’m interested in making new projects, Competitive programming with 6 stars in hackerrank and 4 stars in CodeChef.
 - 🌱 I’m currently learning advance data structures and algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
